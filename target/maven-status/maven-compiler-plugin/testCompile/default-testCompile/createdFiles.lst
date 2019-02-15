@@ -1,0 +1,8 @@
+testRepositories\TestClassroomDBRepository.class
+testDomain\testTrainee.class
+testREST\TestTraineeEndpoint.class
+testBusiness\TestTraineeServiceImpl.class
+testREST\TestClassroomEndpoint.class
+testRepositories\TestTraineeDBRepo.class
+testBusiness\TestClassroomServiceImpl.class
+testDomain\TestClassroom.class
